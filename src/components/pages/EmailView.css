@@ -1,0 +1,48 @@
+.emailview {
+  background-color: #fff;
+  width: 80vw;
+  height: 90vh;
+  /* border: 1px solid black; */
+  border-radius: 1.25rem;
+}
+.icon-items {
+  height: 48px;
+  width: auto;
+  padding: 0 16px 0 16px;
+  margin: 0 16px 0 0;
+  color: #5f6368;
+  font-size: 8px !important;
+}
+.inbox-items > span {
+  font-size: 16px;
+  font-weight: 500;
+  padding-left: 0.6rem;
+  font-size: 16px;
+}
+.inbox-items:hover {
+  color: #0b57d0;
+  border-bottom: #000 !important;
+}
+
+.items {
+  font-size: 16px;
+  height: 3.5rem;
+  width: 15rem;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+.items:hover {
+  background-color: #f6f8fc;
+  border-bottom: 4px solid #0b57d0;
+}
+.icons-items {
+    margin: 2px;
+    padding: 8px;
+    height: 40px;
+    width: 40px;
+    color: #5f6368;
+  }
+  .icons-items:hover{
+    border-radius: 50%;
+    background-color: #f6f8fc;
+  }
